@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "deployer": {
-      "main": "src/ledger.mo",
+    "example": {
+      "main": "src/example.mo",
       "type": "motoko"
     }
   },
